@@ -11,3 +11,4 @@ function parrafo(){
 function alerta(){
     alert("presionaste alerta")
 }
+
